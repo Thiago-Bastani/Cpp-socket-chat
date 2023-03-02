@@ -1,1 +1,1 @@
-# C-socket-chat
+# C++ socket chat
